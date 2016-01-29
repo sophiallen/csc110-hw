@@ -15,3 +15,7 @@ def backwards_1(s):
 def updown(s):
     L = len(s)
     
+
+def charPrint():
+	print("hello!")
+	
