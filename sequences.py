@@ -17,5 +17,4 @@ def updown(s):
     
 
 def charPrint():
-	print("hello!")
-	
+	print("cello!")
